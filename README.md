@@ -40,5 +40,5 @@ UPD 22/07/2023
 
 
 
-[Ссылка на проект](https://l1qwy.github.io/mesto-react/)
+[Ссылка на проект](https://l1qwy.github.io/react-mesto-auth/)
 
